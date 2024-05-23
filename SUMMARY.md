@@ -15,4 +15,11 @@
 
 ## EN
 
-* [Page 2](en/page-2.md)
+* [Introduction](en/introduction.md)
+* [Quick Start](en/quick-start.md)
+* [Backtesting](en/backtesting/README.md)
+  * [Creating a Strategy](en/backtesting/creating-a-strategy.md)
+  * [Backtesting Strategy](en/backtesting/backtesting-strategy.md)
+* [Alert](en/alert.md)
+* [Trading](en/trading.md)
+* [Contact Us](en/contact-us.md)
